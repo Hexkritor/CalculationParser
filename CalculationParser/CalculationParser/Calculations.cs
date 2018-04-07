@@ -45,8 +45,10 @@ namespace CalculationParser
 					operand = string2operand(reader.GetAttribute ("value"));
 					break;
 				case "mod":
-					++hasElement [2];
-					mod = int.Parse(reader.GetAttribute ("value"));
+					if (int.TryParse (reader.GetAttribute ("value"))) {
+						mod = int.Parse (reader.GetAttribute ("value"));
+						++hasElement [2];
+					}
 					break;
 				default:
 					++hasElement [3];
