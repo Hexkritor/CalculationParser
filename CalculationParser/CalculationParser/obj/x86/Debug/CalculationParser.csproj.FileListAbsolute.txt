@@ -1,0 +1,5 @@
+D:\Projects\NivalTest\CalculationParser\CalculationParser\obj\x86\Debug\CalculationParser.csprojResolveAssemblyReference.cache
+D:\Projects\NivalTest\CalculationParser\CalculationParser\bin\Debug\CalculationParser.exe
+D:\Projects\NivalTest\CalculationParser\CalculationParser\bin\Debug\CalculationParser.pdb
+D:\Projects\NivalTest\CalculationParser\CalculationParser\obj\x86\Debug\CalculationParser.exe
+D:\Projects\NivalTest\CalculationParser\CalculationParser\obj\x86\Debug\CalculationParser.pdb
